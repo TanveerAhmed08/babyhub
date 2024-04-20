@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843105690725",
+    "project_id": "babyhub-182c2",
+    "storage_bucket": "babyhub-182c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843105690725:android:2c05bef620f6309056528c",
+        "android_client_info": {
+          "package_name": "com.example.baby_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtuTK_jlfV8J2ZL53n91nDR4U5NSavll8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
